@@ -36,11 +36,11 @@ export default function Home({ posts, locale, availableLocales }) {
           <HeroEffect />
         </div>
         <div className="h-52">
-          <UnchartedRing />
+          {/* <UnchartedRing /> */}
         </div>
         <h1 className="py-3 text-4xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl xl:text-6xl md:leading-14">
-          {t('common:hi')} <span className="animate-fade-text">Mar</span>
-          <span>celo</span> <span className="animate-fade-text">Formentão</span>
+          {t('common:hi')} <span className="animate-fade-text">Ro</span>
+          <span>drigo</span> <span className="animate-fade-text">Cândido</span>
         </h1>
         <p className="px-2 text-xl font-light leading-6 text-gray-500 dark:text-gray-400 sm:px-6 xl:px-0">
           {t('common:mini-bio')}

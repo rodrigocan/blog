@@ -1,32 +1,32 @@
 const siteMetadata = {
   title: {
-    en: 'Marcelo Formentão – Software Engineer',
-    pt: 'Marcelo Formentão – Engenheiro de Software',
+    en: 'Rodrigo Cândido – Data Scientist',
+    pt: 'Rodrigo Cândido – Cientista de Dados',
   },
-  author: 'Marcelo Formentão',
+  author: 'Rodrigo Cândido',
   headerTitle: { en: 'Personal Website', pt: 'Site Pessoal' },
   description: {
-    en: 'A Software Engineer that code for passion and design for fun.',
-    pt: 'A Software Engineer that code for passion and design for fun.',
+    en: 'A Data Scientist in constant learning.',
+    pt: 'Um Cientista de Dados em constante aprendizado.',
   },
   language: 'en-us',
-  siteUrl: 'https://marceloformentao.dev',
-  siteRepo: 'https://github.com/marceloavf/marceloformentao.dev',
+  siteUrl: 'https://rodrigocandido.dev',
+  siteRepo: 'https://github.com/rodrigocan/rodrigocandido.dev',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'me@marceloformentao.dev',
-  github: 'https://github.com/marceloavf',
-  twitter: 'https://twitter.com/marceloavf',
-  linkedin: 'https://www.linkedin.com/in/marceloavf/',
-  instagram: 'https://www.instagram.com/marceloavf/',
+  email: 'rodrigocan@gmail.com',
+  github: 'https://github.com/rodrigocan',
+  twitter: 'https://twitter.com/rncandido',
+  linkedin: 'https://www.linkedin.com/in/rodrigoncandido/',
+  instagram: 'https://www.instagram.com/rodrigoncan/',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: 'marceloformentao.dev',
+    plausibleDataDomain: 'rodrigocandido.dev',
     simpleAnalytics: false,
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: 'G-TPC5EVVJLG',
+    googleAnalyticsId: 'G-7PT4XFP7G0',
   },
   newsletter: {
     // supports mailchimp, buttondown, convertkit

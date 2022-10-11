@@ -1,82 +1,38 @@
 ---
-name: Marcelo Formentão
+name: Rodrigo Cândido
 avatar: /static/images/profile.png
-occupation: Software Engineer
-company: Fernandópolis, Brazil
-email: me@marceloformentao.dev
-twitter: https://twitter.com/marceloavf
-linkedin: https://www.linkedin.com/in/marceloavf/
-github: https://github.com/marceloavf
-instagram: https://www.instagram.com/marceloavf/
+occupation: Data Scientist
+company: Salvador, Brazil
+email: rodrigocan@gmail.com
+twitter: https://twitter.com/rncandido
+linkedin: https://www.linkedin.com/in/rodrigoncandido/
+github: https://github.com/rodrigocan
+instagram: https://www.instagram.com/rodrigoncan/
 ---
 
-I'm a Software Engineer that codes for passion and designs for fun. I've worked with several technologies like Vue, React, Angular, Node, with 8+ years experience.
+I'm a Data Scientist who enjoys creating solutions to contemporary problems. I've worked with some programming languages like JavaScript, R and Python. Currently I have focused my work on the Python environment and its libraries: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scipy, Scikit-learn, Tensorflow, Keras etc.
 
-Besides programming, I also enjoy playing video games, listening to heavy & melodic music, watching series & movies and pets 😊.
+Besides programming, I like to read, watch movies & series and go out at night 🌃.
 
 ## Timeline
 
 ### 2022
 
-- Started learning [Clojure](https://clojure.org/api/cheatsheet).
-- Entered [Talk'n Talk](https://www.talkntalk.com.br/) sessions to improve my English conversation.
-- Released my website.
-- Joined [Hotmart](https://www.hotmart.com/) as a Software Engineer.
-- Moved to [Fernandópolis](https://en.wikipedia.org/wiki/Fernand%C3%B3polis).
-
-### 2021
-
-- Lost [my father](https://www.facebook.com/paulosergio.formentao) ❤️, the most loved person I know.
-
-### 2020
-
-- Got [Scrum Foundation Professional Certificate (SFPC)](https://certiprof.com/pages/scrum-foundation-professional-certificate-sfpc-en-sp).
-
-### 2019
-
-- Gave workshop about Git: Demystifying code management at Precisão Sistemas.
-- Gave workshop about Versioning and package control at Precisão Sistemas.
-- Got [DevOps Essentials Professional Certificate (DEPC)](https://certiprof.com/pages/devops-essentials-professional-certificate-depc).
-
-### 2018
-
-- Moved to [Jales](https://pt.wikipedia.org/wiki/Jales).
-- Contributed to [Docz](https://github.com/doczjs/docz) launch.
-
-### 2017
-
-- Joined Precisão Sistemas as a Software Engineer.
-
-### 2015
-
-- Joined [Agência Vop!](https://www.agenciavop.com.br/) as a Front-end Developer.
-- Awarded [Inova Paula Souza Challenge, Best Idea of São Paulo](http://atribunanaweb.com.br/noticia/projeto-da-fatec-jales-foi-destaque-no-melhor-dos-melhores) with the Social Fitness project.
-- Started working on some freelance jobs out of my state, with a friend of mine, [Renan Favaro](https://www.linkedin.com/in/renanrfavaro/), from Santa Catarina.
-  - Published my first public job for a cloth company called [Fase Lunar](https://www.behance.net/gallery/25095881/Fase-Lunar) on Behance.
+- Started Master in Computer Science at [Federal University of Bahia (UFBA)](https://pgcomp.ufba.br/).
+- Started Data Science and Analytics MBA at [University of São Paulo (USP)](https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics).
 
 ### 2014
 
-- Finished Internet System Technology graduation at FATEC.
-- Submitted a project with a friend, Reinaldo Takaki, in Inova Paula Souza Challenge, Best Idea of São Paulo called Social Fitness.
+- Joined [Tribunal Regional do Trabalho da 5ª Região](https://www.trt5.jus.br/) as an Engineer.
 
 ### 2013
 
-- Started working as Web Designer at [Vento Tecnologia](https://www.behance.net/gallery/14305247/Identidade-Visual-Vento-Tecnologia), marketing agency from Florianópolis, Santa Catarina.
-- Started freelancing as Web Designer for jobs nearby me.
+- Finished Engineering graduation at Federal University of Bahia (UFBA).
 
-### 2012
+### 2008
 
-- Started coursing Internet System Technology at [São Paulo State Technological Colleges (FATECs)](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_State_Technological_Colleges).
-- Embarked learning PHP & JavaScript.
+- Started coursing Engineering at [Federal University of Bahia (UFBA)](https://en.wikipedia.org/wiki/Federal_University_of_Bahia).
 
-### 2010
+### 1989
 
-- Embarked learning Adobe Collection (Photoshop, Illustrator, Flash, Dreamweaver, etc.).
-
-### 1997
-
-- Moved to [São Francisco](https://pt.wikipedia.org/wiki/S%C3%A3o_Francisco_(S%C3%A3o_Paulo)), don't know exactly when 😂.
-
-### 1994
-
-- I was born 🥚 (in [Americana](https://pt.wikipedia.org/wiki/Americana)).
+- I was born 🥚 in [Salvador](https://pt.wikipedia.org/wiki/Salvador).
