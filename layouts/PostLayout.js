@@ -17,7 +17,7 @@ const discussUrl = (slug) =>
     `${siteMetadata.siteUrl}/blog/${slug}`
   )}`
 
-const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
+const _postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
 export default function PostLayout({
   frontMatter,

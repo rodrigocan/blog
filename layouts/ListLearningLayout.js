@@ -21,14 +21,14 @@ const HeadingTwo = (props) => {
 }
 
 export default function ListLearningLayout({
-  posts,
+  _posts,
   post,
   title,
   initialDisplayPosts = [],
   pagination,
 }) {
   const { t } = useTranslation()
-  const { locale } = useRouter()
+  const { _locale } = useRouter()
 
   const MDXComponents = {
     Image,
@@ -53,7 +53,7 @@ export default function ListLearningLayout({
         </div>
         <ul>
           {initialDisplayPosts.map((frontMatter) => {
-            const { slug, date, title, summary, tags } = frontMatter
+            const { slug, _date, _title, _summary, _tags } = frontMatter
 
             return (
               <li key={slug} className="py-4">

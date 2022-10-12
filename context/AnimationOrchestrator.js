@@ -16,7 +16,7 @@ const AnimationContext = createContext(DEFAULT_VALUE)
 
 const AnimationContextProvider = ({ children }) => {
   const router = useRouter()
-  const isHome = router.pathname === '/'
+  const _isHome = router.pathname === '/'
   const [animation, setState] = useState(DEFAULT_VALUE.animation)
 
   const setAnimation = (data) => setState((prevState) => ({ ...prevState, ...data }))

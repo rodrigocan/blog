@@ -17,7 +17,7 @@ const discussUrl = (slug) =>
 
 export default function PostLayout({
   frontMatter,
-  authorDetails,
+  _authorDetails,
   next,
   prev,
   availableLocales,

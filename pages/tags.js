@@ -13,7 +13,7 @@ export async function getStaticProps({ defaultLocale, locale, locales }) {
   return { props: { tags, locale, availableLocales: locales } }
 }
 
-export default function Tags({ tags, locale, availableLocales }) {
+export default function Tags({ tags, availableLocales }) {
   const sortedTags = Object.keys(tags).sort((a, b) => tags[b] - tags[a])
   const { t } = useTranslation()
   return (

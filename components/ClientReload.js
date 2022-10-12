@@ -11,7 +11,7 @@ export const ClientReload = () => {
   useEffect(() => {
     import('socket.io-client').then((module) => {
       const socket = module.io()
-      socket.on('reload', (data) => {
+      socket.on('reload', (_data) => {
         Router.replace(Router.asPath, undefined, {
           scroll: false,
         })

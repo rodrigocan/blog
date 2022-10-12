@@ -1,6 +1,6 @@
 const fs = require('fs')
-const path = require('path')
-const { cpuUsage } = require('process')
+const _path = require('path')
+const { _cpuUsage } = require('process')
 const globby = require('globby')
 const prettier = require('prettier')
 const siteMetadata = require('../data/siteMetadata')
@@ -83,7 +83,7 @@ const i18nConfig = require('../i18n.json')
                 const routeMultiLang = pagesWithLoc.filter(
                   ([ipath, iloc, _]) => ipath.replace(`/${iloc}`, '') == path.replace(`/${loc}`, '')
                 )
-                const test = routeMultiLang.filter(([path, loc]) =>
+                const _test = routeMultiLang.filter(([path, loc]) =>
                   loc === defaultLocale ? path : ''
                 )
                 routeMultiLang.map((e) => (e[2] = true)) //making allreadyPresnt to true
