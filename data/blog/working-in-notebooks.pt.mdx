@@ -1,0 +1,101 @@
+---
+title: 'Trabalhando com Notebooks'
+date: '2023-02-24'
+tags: ['notebooks', 'jupyter', 'machine learning']
+draft: false
+summary: 'Aprendar a usar notebooks interativos para desenvolvimento em Python.'
+layout: 'PostSimple'
+---
+
+Nessa aula do curso [*Made with ML* - Fundamentos](https://madewithml.com/#foundations) você aprenderá a usar notebooks interativos para desenvolvimento em Python.
+
+
+# Links
+
+- [Repositório](https://github.com/rodrigocan/made-with-ml)
+- [Notebook](https://github.com/rodrigocan/made-with-ml/blob/main/notebooks/01_Notebooks.ipynb)
+
+# Configuração
+1. Clique neste link para abrir o [notebook]() que acompanha esta aula, ou crie um em branco no [Google Colab](https://colab.research.google.com/).
+2. Entre com a sua [Conta do Google](https://accounts.google.com/signin) para começar a usar o notebook. Se você não quiser salvar o seu trabalho, você pode pular as etapas abaixo. Se você não tiver acesso ao Google, você pode seguir essa aula utilizando o [Jupyter Lab](https://jupyter.org/).
+3. Se você quiser salvar o seu trabalho, vá no menu Arquivo (barra superior) e em seguida clique em **Salvar uma cópia no Drive**. Isso abrirá um novo notebook em uma nova aba. Renomeie esse novo notebook removendo as palavras Cópia de do título (mude de **Cópia de 01_Notebooks** para **01_Notebooks**).
+
+| ![Copiar para o drive](/static/images/working-in-notebooks/copy_to_drive.png) | ![Renomear](/static/images/working-in-notebooks/rename.png) |
+|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------:|
+
+## Alternativas para o Google Colab
+
+Alternativamente, você pode rodar notebooks localmente utilizando o [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/index.html). Primeiro você precisa configurar um diretório para o projeto, criar um ambiente virtual e instalar o jupyterlab.
+
+```bash
+mkdir mlops
+python3 -m venv venv
+source venv/bin/activate
+pip install jupyterlab
+jupyter lab
+```
+
+# Tipos de células
+
+Notebooks são compostos de células. Cada célula pode ser uma **célula de código** ou uma **célula de texto**.
+
+*   **célula de código**: serve para escrever e executar código.
+*   **célula de texto**: serve para escrever texto, HTML, Markdown, etc.
+
+# Criando células
+
+Clique na localização desejada do notebook e crie a célula clicando no botão **➕ Texto** (localizado no canto superior esquerdo).
+
+|![Criar célula](/static/images/working-in-notebooks/create_text_cell.png)|
+|:---:|
+
+Com a célula criada, clique em cima dela e digite o seguinte texto:
+
+```
+### Isto é um cabeçalho
+Olá mundo!
+```
+
+# Executando células
+
+Depois de digitar na célula, pressione **Shift** + **Enter** para executá-la.
+
+# Editando células
+
+Para editar uma célula, clique duas vezes em cima dela e em seguida faça as mudanças.
+
+# Movendo células
+
+Depois de criada, a célula pode ser movida para cima ou para baixo, clicando nela e depois nos botões ⬆ e ⬇ localizados no canto superior direito da célula.
+
+|![Mover célula](/static/images/working-in-notebooks/move_cell.png)|
+|:---:|
+
+# Apagando células
+
+Você pode apagar a célula clicando nela e depois pressionado no botão de lixeira 🗑️ no topo superior direito da célula. Alternativamente, você também pode pressionar ⌘/Ctrl + M + D.
+
+|![Apagar célula](/static/images/working-in-notebooks/delete_cell.png)|
+|:---:|
+
+# Criando uma célula de código
+
+Você pode repetir os passos acima para criar e editar uma célula de código. Você pode criar uma célula de código clicando em ➕ Código (localizado no canto superior esquerdo).
+
+|![Criar célula de código](/static/images/working-in-notebooks/create_code_cell.png)|
+|:---:|
+
+Com a célula de código criada, clique duas vezes em cima dela, digite o conteúdo a seguir dentro e pressione **Shift + Enter** para executar o código.
+
+```python
+print ("Olá mundo!")
+```
+
+```bash
+Olá mundo!
+```
+
+Esses são os conceitos básicos que você precisará para usar os notebooks, mas aprenderemos mais alguns truques nas próximas aulas.
+
+# Referências
+- [Working in Notebooks - Made With ML](https://madewithml.com/courses/foundations/notebooks/) - Goku Mohandas
